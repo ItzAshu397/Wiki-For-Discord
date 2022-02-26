@@ -21,6 +21,10 @@ wiki-for-discord is a NPM package which helps in getting Wikipedia data on a cer
 npm i wiki-for-discord
 ```
 
+# Changes Made
+
+- Made minor changes in `index.js` file
+
 # Example
 
 ```js
