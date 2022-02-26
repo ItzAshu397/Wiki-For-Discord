@@ -1,0 +1,29 @@
+{
+  "name": "wiki-for-discord",
+  "version": "1.0.0",
+  "description": "Search Wikipedia in Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzAshu397/Wiki-For-Discord.git"
+  },
+  "keywords": [
+    "wiki-for-discord",
+    "wikipedia",
+    "wikisearch",
+    "math-rockz"
+  ],
+  "author": "Ashutosh Swamy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItzAshu397/Wiki-For-Discord/issues"
+  },
+  "homepage": "https://github.com/ItzAshu397/Wiki-For-Discord#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "node-fetch": "^3.2.0"
+  }
+}
